@@ -10,7 +10,7 @@ Created by Fitria Dwi Wulandari
 1. The most important features in determining whether an applicant is likely to not repay their loan are the last payment month, the last payment amount, the total principal received, the recovery value, and the last payment year.
 2. The best model to predict the risk status of loan applications is Random Forest.
 
-**Reference**:
+**References**:
 - https://www.investopedia.com/terms/g/grace_period.asp
 - https://www.investopedia.com/terms/d/default2.asp
 - https://www.valuepenguin.com/loans/what-does-it-mean-to-default-on-a-loan
