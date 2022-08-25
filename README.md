@@ -1,4 +1,4 @@
-# Credit-Risk-Prediction
+# Credit Risk Prediction
 
 Created by Fitria Dwi Wulandari
 
