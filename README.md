@@ -7,7 +7,7 @@ Created by Fitria Dwi Wulandari
 2. Implement machine learning algorithms to build a predictive model to predict loan risk from applicants.
 
 **Results**:
-1. The most important features in determining whether an applicant is likely to not repay their loan are the last payment month, the last payment amount, the total principal received, the recovery value, and the last payment year.
+1. The most important feature in determining whether the applicant has the possibility of not repaying the loan is the last payment month, the last payment amount, the principal amount received, the recovery value, and the last payment year.
 2. The best model to predict the risk status of loan applications is Random Forest.
 
 **References**:
