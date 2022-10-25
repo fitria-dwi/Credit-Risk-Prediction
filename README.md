@@ -10,7 +10,9 @@ Created by Fitria Dwi Wulandari
 1. The most important feature in determining whether the applicant has the possibility of not repaying the loan is the last payment month, the last payment amount, the principal amount received, the recovery value, and the last payment year.
 2. The best model to predict the risk status of loan applications is Random Forest.
 
-### **Documentation** : https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction.ipynb
+### **Documentation** : 
+Click on [this](https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction.ipynb) if you would like to go further to the notebook.
+
 ### **References**:
 - https://www.investopedia.com/terms/g/grace_period.asp
 - https://www.investopedia.com/terms/d/default2.asp
