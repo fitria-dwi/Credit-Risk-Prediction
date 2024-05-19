@@ -30,7 +30,7 @@ Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Analysis, Mac
 * **Presentation Deck**: [cr-prediction deck](https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction%20Presentation.pdf)
 * **Script Python**: [cr-prediction deck](https://github.com/fitria-dwi/Credit-Risk-Prediction/blob/main/Credit%20Risk%20Prediction.ipynb)
 
-#### **References**:
+#### <ins>**References**</ins>
 - https://www.investopedia.com/terms/g/grace_period.asp
 - https://www.investopedia.com/terms/d/default2.asp
 - https://www.valuepenguin.com/loans/what-does-it-mean-to-default-on-a-loan
