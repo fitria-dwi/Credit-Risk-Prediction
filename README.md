@@ -23,7 +23,7 @@ Granting loans to bad-risk applicants is the largest source of financial loss. C
 #### <ins>**Tools**</ins>
 Python.
 
-#### <ins>**Skills Sets**</ins>
+#### <ins>**Skill Sets**</ins>
 Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Analysis, Machine Learning, Predictive Modeling.
 
 #### <ins>**Documentation**</ins>
